@@ -5,7 +5,7 @@
   "mavenArtifactId" : "${project.parent.artifactId}",
   "mavenVersion" : "${project.parent.version}",
   "decisionServiceName" : "${project.parent.groupId}",
-  "decisionServiceId" : "${project.parent.artifactId}",
+  "decisionServiceId" : "${project.parent.groupId}",
   "decisionServiceVersion" : "${project.parent.version}",
   "engineRuntimeVersion" : "${engine-compact-runtime.version}",
   "engineAPIVersion" : "${engine-api.version}",
